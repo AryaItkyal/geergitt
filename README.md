@@ -1,3 +1,3 @@
 # geergitt
-A domain adaptable chatbot
+A domain adaptable chatbot.
 In development
